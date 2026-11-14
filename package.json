@@ -13,7 +13,8 @@
   "files": [
     "Seafaring.js",
     "Seafaring.d.ts",
-    "Seafaring.js.map"
+    "Seafaring.js.map",
+    "Seafaring.ts"
   ],
   "scripts": {
     "build": "npm run ts:compile && npm run prettier:format",
