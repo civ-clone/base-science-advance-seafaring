@@ -1,6 +1,6 @@
 {
   "name": "@civ-clone/base-science-advance-seafaring",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "The Seafaring class: an advance.",
   "repository": "git@github.com:civ-clone/base-science-advance-seafaring.git",
   "keywords": [
